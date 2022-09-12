@@ -26,4 +26,4 @@
 </div>
 
 #### Socials
-<a href="https://www.linkedin.com/in/dante-juan-terranova-2383361a4/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" style="max-width: 100%;" width="32" height="32"></a>
+<a href="https://www.linkedin.com/in/dante-terranova-2383361a4/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" style="max-width: 100%;" width="32" height="32"></a>
