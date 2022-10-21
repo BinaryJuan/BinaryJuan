@@ -1,4 +1,4 @@
-## Hi there! I am Dante Terranova 👋
+## Hi there! 👋
 #### I am Dante, full-stack developer
 
 - 🔭 I am currently working on a **server express project**
