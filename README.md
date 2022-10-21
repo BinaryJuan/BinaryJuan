@@ -1,5 +1,5 @@
 ## Hi there! I am Dante Terranova 👋
-#### I am Dante, a full-stack developer
+#### I am Dante, full-stack developer
 
 - 🔭 I am currently working on a **server express project**
 - 🌱 I am currently learning **Databases**
