@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on a **server express project**
 - 🌱 I am currently learning **Databases**
-- :clipboard: You can see my **portfolio** <a href="https://dante-terranova.vercel.app/" target="_blank">here</a>
+- :clipboard: You can see my **portfolio** <a href="https://www.binaryjuan.cloud/" target="_blank">here</a>
 - 📫 E-mail: <a href="mailto:dante_jterranova463@hotmail.com" target="_blank">email me!</a>
 - :argentina: From Buenos Aires, Argentina
 
