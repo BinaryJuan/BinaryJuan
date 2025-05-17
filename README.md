@@ -1,2 +1,2 @@
-- <a href="https://www.binaryjuan.cloud/" target="_blank">Portfolio</a>
+- <a href="https://dante-terranova.vercel.app/" target="_blank">Portfolio</a>
 - :argentina: Buenos Aires, Argentina
